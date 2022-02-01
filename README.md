@@ -2,7 +2,9 @@
 
 - Support for [Yesod](https://www.yesodweb.com/)'s Shakespeare template syntax highlighting inside Haskell source files.
 
-- Support for aeson-qq & hasql-th - Pranay Sashank
+- Support for aeson-qq & hasql-th
+
+- Support for graphql inside `gql` quasiquoter
 
 ## Dependencies
 
@@ -18,6 +20,10 @@ and
   extension for any new association to sql or json or hamlet.
 
 ## Release Notes
+
+### 0.1.2
+
+- Support for graphql inside `gql` quasiquoter.
 
 ### 0.1.1
 
