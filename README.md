@@ -21,6 +21,11 @@ and
 
 ## Release Notes
 
+### 0.1.3
+
+- Changed from `gql` to `raw` quasiquoter for graphql
+- Support for text interpolation highlighting
+
 ### 0.1.2
 
 - Support for graphql inside `gql` quasiquoter.
